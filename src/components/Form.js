@@ -33,7 +33,7 @@ function Form() {
         {isConfirmed ? (
             <div className="confirmation-message">
                 Thank you for your reservation! Your table has been booked.
-                <button onClick={() => setIsConfirmed(false)}>Book Another Table</button>
+                <button onClick={() => setIsConfirmed(false)}> Book Another Table </button>
             </div>
         ) : (
         <form onSubmit={handleSubmit(formSubmit)}>

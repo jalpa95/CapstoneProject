@@ -23,7 +23,7 @@ const NavLinks = (props) => {
             transition={{delay: 0.10}}
             onClick={() => props.isMobile && props.closeMobileMenu()}
             >
-              <NavLink to="#">About</NavLink>
+              <NavLink to="#">About Us</NavLink>
             </motion.li>
             <motion.li
             initial={animateFrom}

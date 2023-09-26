@@ -26,7 +26,7 @@ const SpecialsCard = () => {
             image: Dessert3,
             title: "Lemon Dessert",
             price: "$5.00",
-            description: "This comes straight from Grandma's recipe book. Every last ingredient has been sourced and is as authentic as can be imagined.",
+            description: "This comes straight from Grandma's recipe book. Every last ingredient has been sourced and is as authentic as can be imagined, made perfect for a dinner.",
             order: "Order a delivery"
         }
     ]
