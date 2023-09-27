@@ -20,6 +20,7 @@ import React from "react";
 import Home from "./routes/Home";
 import Reservations from "./routes/Reservations";
 import Confirmbooking from "./components/bookingconfirm";
+import AboutUs from "./components/AboutUs";
 
 
 import {Route, Routes} from "react-router-dom";
@@ -31,8 +32,8 @@ function App() {
       <Routes>
         <Route path = "/" element = {<Home />}/>
         <Route path = "/reservations" element = {<Reservations />}/>
-        <Route path = "/bookkingisconfirm" element = {<Confirmbooking />}/>
- 
+        <Route path = "/bookingisconfirm" element = {<Confirmbooking />}/>
+        <Route path="/about-us" component={AboutUs} />
       </Routes>
     </>
   );

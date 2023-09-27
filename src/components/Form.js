@@ -38,6 +38,8 @@ function Form() {
         ) : (
         <form onSubmit={handleSubmit(formSubmit)}>
             {/* <fieldset> */}
+            <h1>Reserve a Table</h1>
+                <p>Please fill in and submit form to book your reservation at Little Lemon.</p>
                 <div className="field">
                     <label htmlFor="name">Full Name</label>
                     <input type="text" placeholder="John Doe" name="name" {...register("name")} />

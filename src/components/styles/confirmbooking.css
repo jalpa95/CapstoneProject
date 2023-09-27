@@ -1,5 +1,6 @@
 /* ReservationsContent.css */
 
+
 /* Form styles */
 .form-container {
     display: flex;
@@ -54,6 +55,10 @@
   background-color: #4CAF50;
   color: white;
   border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 .confirmation-message p {
@@ -61,6 +66,8 @@
 }
 
 .confirmation-message button {
+  display: block;
+  margin-top: 20px;
   background-color: #007BFF;
   color: white;
   padding: 10px 20px;

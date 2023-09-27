@@ -3,6 +3,15 @@
     width: 100%;
     background-size: cover;
 }
+.confirmation-message {
+    /* Add styles for the message container */
+    text-align: center; /* Center the text horizontally */
+    margin-top: 20px; /* Add some top margin to create space */
+
+    /* Add styles for the button */
+    display: block; /* Make the button a block-level element */
+}
+
 
 .res-content-container {
     display: flex;
@@ -125,7 +134,6 @@ select {
     color: red;
     margin-top: 5px;
 }
-
 
 
 @media screen and (max-width: 1024px) {
