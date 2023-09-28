@@ -27,21 +27,21 @@ const Footer = () => {
           <div className="col-full col-half col-3rd mb-5 foot-center">
             <h4>CONTACT US</h4>
             <address>
-              123 Where Am I Street
+              123 Hoppenstedt Straße
               <br />
-              No Where, NW 00001
+              Hamburg 21001, Germany
             </address>
             <a className="footer-block" href="tel:+11234567890">
-              123&#41;&nbsp;456&#45;7890
+              +49-123&#45;&nbsp;4567&#45;8901
             </a>
             <br />
             <a className="footer-block" href="mailto: CSR@littlelemon.com">
-              CSR@littlelemon.com
+              info@littlelemon.com
             </a>
           </div>
         </div>
         <div className="col-full foot-center">
-          <p>&copy; 2023 Coursera Meta Front-End Developer by Yoon.</p>
+          <p>&copy; 2023 Coursera Meta Front-End Developer by Jalpa.</p>
         </div>
       </footer>
     </>
