@@ -1,7 +1,7 @@
 # Meta Front-End Developer Capstone Project
 <!-- [Meta Front-End Developer Professional Certificate]() -->
 
-[Little Lemon Capstone Project](https://jalpa95.github.io/CapstoneProject/)
+[Little Lemon Capstone Project](https://jalpa95.github.io/CapstoneProject)
 
 Professional Certificate taught by expert Software Engineers of Meta. This is divided into 9 focused courses to prepare learners for a career as a Front-End Developer.
 
