@@ -30,4 +30,4 @@ Course 9: [Coding Interview Preparation](https://www.coursera.org/learn/coding-i
 
 ## Demo
 
-![Little Lemon Website](./src/images/demo/)
+![Little Lemon Website](./src/images/Demo/LLDemo.mp4)
