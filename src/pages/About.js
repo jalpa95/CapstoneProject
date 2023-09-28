@@ -9,7 +9,7 @@ const About = () => {
         <div className="row justify-center">
           <div className="col-md-6 col-sm-12 align-self-start pd">
             <h2 className="lemon-primary-lemon">Little Lemon</h2>
-            <h3 className="emon-primary-dark">Chicago</h3>
+            <h3 className="emon-primary-dark">Hamburg</h3>
             <p>
               Yorem ipsum dolor sit amet consectetur, adipisicing elito. Oy sequi ipsam aspernatur assumenda praesentium eum accusamus,
               consequatur voluptatibus voluptate, quibusdam aliquam odio officiis animi nobis commodi dicta quon. Corrupti praesentium fuga
@@ -18,9 +18,10 @@ const About = () => {
             </p>
             <p>
               Hworem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur laborum corporis facilis molestias asperiores illum dicta
-              dolorem, quibusdam praesentium consectetur id delectus, rem debitis laborean.
+              dolorem, quibusdam praesentium consectetur id delectus, rem debitis laborean. Kaborum provident exercitationem qui odio sed incidunt dolores culpa reprehenderit. Soluta, tenetur. Expedita quibusdam
+              omnis facilis animi repellon.
             </p>
-            <p>Corem ipsum dolor sit amet consectetur adipisicing elit. Earum recusandae reprehenderit quod, veniam pariatur quaeho</p>
+            <p>Corem ipsum dolor sit amet consectetur adipisicing elit. Earum recusandae reprehenderit quod, veniam pariatur quaeho. Luibusdam aliquam odio officiis animi nobis commodi dicta quon.</p>
           </div>
           <div className="col-md-6 col-sm-12 text-center align-self-center">
             <div className="my-3">

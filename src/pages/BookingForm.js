@@ -82,9 +82,9 @@ const BookingForm = () => {
 
   return (
     <section className="container my-3" style={{ maxWidth: "970px" }}>
-      <h2>Reserve a table</h2>
+      <h2 className="mb-4 mt-4">Reserve a table</h2>
       <form onSubmit={handleSubmit} className="row justify-content-center">
-        <div className="col-md-4 mb-3">
+        <div className="col-md-4 mb-4">
           <label htmlFor="firstName" className="form-label">
             First Name
           </label>
@@ -99,7 +99,7 @@ const BookingForm = () => {
             required={true}
           />
         </div>
-        <div className="col-md-4 mb-3">
+        <div className="col-md-4 mb-4">
           <label htmlFor="lastName" className="form-label">
             Last Name:
           </label>
@@ -114,7 +114,7 @@ const BookingForm = () => {
             required={true}
           />
         </div>
-        <div className="col-md-4 mb-3">
+        <div className="col-md-4 mb-4">
           <label htmlFor="email" className="form-label">
             Email
           </label>
@@ -130,14 +130,14 @@ const BookingForm = () => {
           />
         </div>
 
-        <div className="col-md-6 mb-3">
+        <div className="col-md-6 mb-4">
           <label htmlFor="date" className="form-label">
             Date
           </label>
           <input type="date" name="form-control" id="date" className="form-control" value={date} onChange={handleDate} min={minDate} />
         </div>
 
-        <div className="col-md-6 mb-3">
+        <div className="col-md-6 mb-4">
           <label htmlFor="date" className="form-label">
             Time
           </label>
@@ -155,13 +155,13 @@ const BookingForm = () => {
           </select>
         </div>
 
-        <div className="col-md-6 mb-3">
+        <div className="col-md-6 mb-4">
           <label htmlFor="guests" className="form-label">
             Guests
           </label>
           <input value={guests} type="number" name="form-control" id="guests" className="form-control" min={0} max={84} onChange={handleGuests} />
         </div>
-        <div className="col-md-6 mb-3">
+        <div className="col-md-6 mb-4">
           <label htmlFor="date" className="form-label">
             Occasion
           </label>

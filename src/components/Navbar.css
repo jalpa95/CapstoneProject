@@ -5,4 +5,13 @@
   .lemon-primary-l {
     color: #F4CE14;
   }
+  /* Navbar.css */
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #fff; /* Add your preferred background color */
+  /* Add other styles as needed */
+}
+
   
