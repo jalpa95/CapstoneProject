@@ -24,8 +24,8 @@ Course 9: [Coding Interview Preparation](https://www.coursera.org/learn/coding-i
 
 ## Live
 
-[Live Website](https://meta-front-end-developer.onrender.com/)
+[Live Website](https://jalpa95.github.io/CapstoneProject/)
 
 ## Demo
 
-![Little Lemon Website](./src/images/demo/LLDemo.gif)
+![Little Lemon Website](./src/images/demo/)
